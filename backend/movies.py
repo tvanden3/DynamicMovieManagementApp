@@ -5,6 +5,11 @@ class Movie(BaseModel):
     id: int
     name: str
     cast: List[str]
+
+class Movie2(BaseModel):
+    name: str
+    cast: List[str]
+
 class Movies:
     def __init__(self, movies_file):
         self._movies = []
