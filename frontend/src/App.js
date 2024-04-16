@@ -2,7 +2,8 @@
 import { TextField, List, ListItem, ListItemIcon, ListItemText} from '@mui/material';
 import {useEffect, useState} from 'react';
 import './App.css';
-import {Movie} from '@mui/icons-material';
+//import {Movie} from '@mui/icons-material';
+import LocalMoviesIcon from '@mui/icons-material/LocalMovies'
 
 
 
@@ -15,12 +16,12 @@ function App() {
       setMovie(null);
     }
     else{
-      fetch('http://localhost:8000/movie/${movieId}')
+      fetch(`http://127.0.0.1:8000/movie/${movieId}`)
       .then( result => result.json())
       .then( result => {
-        console.log('http://localhost:8000/movie/${movieId}')
-        setMovie(result);
-      });
+        console.log(`http://127.0.0.1:8000/movie/${movieId}`)
+        setMovie(result)
+            });
     }
     console.log(movieId);
   }, [movieId] );
@@ -33,10 +34,25 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <TextField id="outlined-basic" label="Movie Id"
-        variant ="outlined" color="warning" focused value={movieId}
-        onChange={e=> setMovieId(e.target.value)}
+        <TextField
+          id="outlined-basic"
+          label="Movie Id"
+          variant="outlined"
+          color="warning"
+          focused
+          value={movieId}
+          onChange={e => setMovieId(e.target.value)}
         />
+        <List>
+          {movie && (
+            <ListItem>
+              <ListItemIcon>
+                <LocalMoviesIcon />
+              </ListItemIcon>
+              <ListItemText primary={movie['name']} />
+            </ListItem>
+          )}
+        </List>
       </header>
     </div>
   );
