@@ -11,8 +11,15 @@ movies = Movies("./movies.txt")
 @mApp.get("/movie/{movie_id}")
 def get_movie_by_name(movie_id: str):
     for i in range(0,len(movies._movies),1):
-        if movies._movies[i]['id'] == int(movie_id):
-            return movies._movies[int(i)]
+        if 'id' in movies._movies[i]:
+            if movies._movies[i]['id'] == int(movie_id):
+                return movies._movies[int(i)]
+        else:
+            print(i)
+            print(movies._movies[i])
+            
+        #if movies._movies[i]['id'] == int(movie_id):
+        #    return movies._movies[int(i)]
 
 @mApp.put("/movie/{movie_id}")
 def update_movie(movie_id: int, new_movie: Movie2) -> Union[Movie, None]:
@@ -37,3 +44,14 @@ def delete_movie(movie_id: int, new_movie: Movie2) -> Union[Movie, None]:
             'name' : name,
             'cast': cast
          }
+
+
+@mApp.post("/movie/{movie_id}")
+def post_movie(new_movie: Movie2) -> Union[Movie, None]:
+    newId = len(movies._movies)
+    movie = {
+        'id': newId,
+        'name': new_movie.name,
+        'cast': new_movie.cast
+    }
+    movies._movies.append(movie)
