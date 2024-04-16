@@ -1,22 +1,17 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
+import { TextField, List, ListItem, ListItemIcon, ListItemText} from '@mui/material';
+import {useState} from 'react';
 import './App.css';
 
 function App() {
+  const [movieId, setMovieId] = useState("5")
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <TextField id="outlined-basic" label="Movie Id"
+        variant ="outlined" color="warning" focuse value={movieId}
+        onChange={e=> setMovieId(e.target.value)}
+        />
       </header>
     </div>
   );
