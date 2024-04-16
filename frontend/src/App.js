@@ -1,34 +1,32 @@
-//import logo from './logo.svg';
-import { TextField, List, ListItem, ListItemIcon, ListItemText} from '@mui/material';
-import {useEffect, useState} from 'react';
+import { TextField, List, ListItem, ListItemIcon, ListItemText } from '@mui/material';
+import { useState, useEffect } from 'react';
 import './App.css';
-//import {Movie} from '@mui/icons-material';
-import LocalMoviesIcon from '@mui/icons-material/LocalMovies'
-
-
+import LocalMoviesIcon from '@mui/icons-material/LocalMovies';
 
 function App() {
-  const [movieId, setMovieId] = useState("1")
-  const [movie, setMovie] = useState(null)
+  const [movieId, setMovieId] = useState("1"); 
+  const [movie, setMovie] = useState(null); 
 
   useEffect(() => {
-    if(movieId == ""){
-      setMovie(null);
-    }
-    else{
+    if (movieId === "") {
+      setMovie(null); 
+    } else {
       fetch(`http://127.0.0.1:8000/movie/${movieId}`)
-      .then( result => result.json())
-      .then( result => {
-        console.log(`http://127.0.0.1:8000/movie/${movieId}`)
-        setMovie(result)
-            });
+        .then(result => result.json()) 
+        .then(result => {
+          console.log(`Data received for movie ID ${movieId}:`, result);
+          setMovie(result); 
+        })
+        .catch(error => {
+          console.error('Error fetching movie:', error); 
+        });
     }
-    console.log(movieId);
-  }, [movieId] );
+    console.log('Current movieId:', movieId); 
+  }, [movieId]); 
 
   useEffect(() => {
-    console.log(movie);
-  }, [movie]);
+    console.log('Current movie:', movie);
+  }, [movie]); 
 
 
   return (
@@ -41,15 +39,15 @@ function App() {
           color="warning"
           focused
           value={movieId}
-          onChange={e => setMovieId(e.target.value)}
+          onChange={e => setMovieId(e.target.value)} 
         />
         <List>
           {movie && (
             <ListItem>
               <ListItemIcon>
-                <LocalMoviesIcon />
+                <LocalMoviesIcon /> // Display a movie icon next to the movie name
               </ListItemIcon>
-              <ListItemText primary={movie['name']} />
+              <ListItemText primary={movie['name']} /> // Display the movie name
             </ListItem>
           )}
         </List>
@@ -58,4 +56,4 @@ function App() {
   );
 }
 
-export default App;
+export default App; 
