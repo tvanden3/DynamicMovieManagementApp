@@ -1,7 +1,15 @@
+from typing import List 
+from pydantic import BaseModel
+
+class Movie(BaseModel):
+    id: int
+    name: str
+    cast: List[str]
 class Movies:
     def __init__(self, movies_file):
         self._movies = []
         with open(movies_file, encoding="utf-8") as file:
+            counter = 1
             row_idx = 0
             for line in file:
                 if row_idx%3 == 0:
@@ -11,10 +19,12 @@ class Movies:
                 if row_idx%3 == 2:
                     self._movies.append(
                         {
+                            'id': counter,
                             'name': movie_name,
                             'cast': movie_cast
                         }
                     )
+                    counter = counter + 1
                     movie_name = None
                     movie_cast = None
                 row_idx += 1
