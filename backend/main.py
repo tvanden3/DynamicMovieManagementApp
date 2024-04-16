@@ -27,9 +27,9 @@ def get_movie_by_name(movie_id: str):
         if 'id' in movies._movies[i]:
             if movies._movies[i]['id'] == int(movie_id):
                 return movies._movies[int(i)]
-        #else:
-         #   print(i)
-          #  print(movies._movies[i])
+        else:
+            print(i)
+            print(movies._movies[i])
             
         #if movies._movies[i]['id'] == int(movie_id):
         #    return movies._movies[int(i)]
