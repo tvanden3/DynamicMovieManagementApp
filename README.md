@@ -8,9 +8,11 @@ frontend/: This folder contains the React app.
 
 
 Description:
+
 The Simple Movie App is a full-stack web application that allows users to manage a collection of movies. The backend is powered by FastAPI, providing a RESTful API for CRUD (Create, Read, Update, Delete) operations on the movie data. The frontend is built with React, offering a user interface to interact with the API.
 
 Backend (FastAPI):
+
 The backend is implemented using FastAPI, a modern, fast (high-performance) web framework for building APIs with Python. It manages movie data stored in a text file and provides endpoints to perform CRUD operations.
 
 Endpoints:
@@ -35,6 +37,7 @@ Movie2: A simplified Pydantic model used for updating or creating a movie (witho
 Movies: A class that handles loading and managing movie data from a text file.
 
 Frontend (React)
+
 The frontend is built with React, a popular JavaScript library for building user interfaces. It communicates with the FastAPI backend to display movie data and allow users to manage their movie collection.
 
 Key Files:
@@ -51,17 +54,18 @@ Setup Instructions
 
 Backend
 Install Dependencies:
-Navigate to the backend/ directory.
-Install the required Python packages:
+-Navigate to the backend/ directory.
+-Install the required Python packages
 
 pip install -r requirements.txt
 
-Run the Backend Server:
-Start the FastAPI server:
-uvicorn main:app --reload
+Run the Backend Server
+
+-Start the FastAPI server:
+  uvicorn main:app --reload
 The server will be accessible at http://localhost:8000.
 
-Frontend:
+Frontend
 Install Dependencies:
 - Navigate to the frontend/ directory.
 - Install the required npm packages:
