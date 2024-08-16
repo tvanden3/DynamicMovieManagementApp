@@ -1,4 +1,5 @@
-A Simple Movie App
+Dynamic Movie Management APP
+
 Project Organization:
 
 backend/: This folder contains the FastAPI project.
@@ -17,6 +18,7 @@ Endpoints:
 GET /movie/{movie_id}: Retrieve details of a specific movie by its ID.
 PUT /movie/{movie_id}: Update the details of a specific movie.
 DELETE /movie/{movie_id}: Delete a movie by its ID.
+
 POST /movie/{movie_id}: Add a new movie to the collection.
   
   
