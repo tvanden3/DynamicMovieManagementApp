@@ -1,6 +1,4 @@
 A Simple Movie App
-This repository is a template for the FastAPI + React assignment.
-
 Project Organization:
 
 backend/: This folder contains the FastAPI project.
