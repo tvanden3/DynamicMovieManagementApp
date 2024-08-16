@@ -4,6 +4,7 @@ This repository is a template for the FastAPI + React assignment.
 Project Organization:
 
 backend/: This folder contains the FastAPI project.
+
 frontend/: This folder contains the React app.
 
 
@@ -28,6 +29,7 @@ Data Model:
 Movie: A Pydantic model that includes the movie ID, name, and cast.
 Movie2: A simplified Pydantic model used for updating or creating a movie (without the ID).
 Movies: A class that handles loading and managing movie data from a text file.
+
 Frontend (React)
 The frontend is built with React, a popular JavaScript library for building user interfaces. It communicates with the FastAPI backend to display movie data and allow users to manage their movie collection.
 
@@ -51,16 +53,14 @@ Install the required Python packages:
 pip install -r requirements.txt
 
 Run the Backend Server:
-
 Start the FastAPI server:
 uvicorn main:app --reload
 The server will be accessible at http://localhost:8000.
 
 Frontend:
 Install Dependencies:
-
-Navigate to the frontend/ directory.
-Install the required npm packages:
+- Navigate to the frontend/ directory.
+- Install the required npm packages:
 
 npm install
 
