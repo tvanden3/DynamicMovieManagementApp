@@ -16,6 +16,7 @@ The backend is implemented using FastAPI, a modern, fast (high-performance) web 
 Endpoints:
 
 GET /movie/{movie_id}: Retrieve details of a specific movie by its ID.
+
 PUT /movie/{movie_id}: Update the details of a specific movie.
 
 DELETE /movie/{movie_id}: Delete a movie by its ID.
@@ -28,7 +29,9 @@ CORS (Cross-Origin Resource Sharing) is enabled to allow requests from the front
 
 Data Model:
 Movie: A Pydantic model that includes the movie ID, name, and cast.
+
 Movie2: A simplified Pydantic model used for updating or creating a movie (without the ID).
+
 Movies: A class that handles loading and managing movie data from a text file.
 
 Frontend (React)
