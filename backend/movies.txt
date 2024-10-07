@@ -297,3 +297,676 @@ Al Pacino, John Cusack, Bridget Fonda, Danny Aiello, Martin Landau, David Paymer
 
 Bottle Rocket
 Luke Wilson, Owen Wilson, Lumi Cavazos, Andrew Wilson, Robert Musgrave, Haley Miller, James Caan, Ned Dowd, Shea Fowler, Brian Tenenbaum, Jenni Tooley, Temple Nash
+
+The Matrix
+Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Joe Pantoliano
+
+Forrest Gump
+Tom Hanks, Robin Wright, Gary Sinise, Mykelti Williamson, Sally Field
+
+The Lion King
+Matthew Broderick, Jeremy Irons, James Earl Jones, Nathan Lane, Whoopi Goldberg
+
+Titanic
+Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates, Frances Fisher
+
+Jurassic Park
+Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough, Samuel L. Jackson
+
+The Shawshank Redemption
+Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler, Clancy Brown
+
+Pulp Fiction
+John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis, Harvey Keitel
+
+Goodfellas
+Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco, Paul Sorvino
+
+Braveheart
+Mel Gibson, Sophie Marceau, Patrick McGoohan, Angus Macfadyen, Brendan Gleeson
+
+The Sixth Sense
+Bruce Willis, Haley Joel Osment, Toni Collette, Olivia Williams, Donnie Wahlberg
+
+Inception
+Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy, Ken Watanabe
+
+The Dark Knight
+Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine, Gary Oldman
+
+Gladiator
+Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed, Richard Harris
+
+Fight Club
+Brad Pitt, Edward Norton, Helena Bonham Carter, Meat Loaf, Jared Leto
+
+Saving Private Ryan
+Tom Hanks, Matt Damon, Tom Sizemore, Edward Burns, Barry Pepper
+
+Schindler’s List
+Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall, Jonathan Sagall
+
+The Godfather
+Marlon Brando, Al Pacino, James Caan, Diane Keaton, Robert Duvall
+
+The Lord of the Rings: The Fellowship of the Ring
+Elijah Wood, Ian McKellen, Viggo Mortensen, Orlando Bloom, Sean Bean
+
+Star Wars: Episode IV – A New Hope
+Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness, Peter Cushing
+
+Avatar
+Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang, Michelle Rodriguez
+
+The Avengers
+Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson
+
+Deadpool
+Ryan Reynolds, Morena Baccarin, Ed Skrein, T.J. Miller, Gina Carano
+
+Iron Man
+Robert Downey Jr., Gwyneth Paltrow, Jeff Bridges, Terrence Howard, Shaun Toub
+
+Spider-Man: Homecoming
+Tom Holland, Michael Keaton, Zendaya, Robert Downey Jr., Marisa Tomei
+
+Guardians of the Galaxy
+Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper
+
+Interstellar
+Matthew McConaughey, Anne Hathaway, Jessica Chastain, Michael Caine, Bill Irwin
+
+The Revenant
+Leonardo DiCaprio, Tom Hardy, Domhnall Gleeson, Will Poulter, Forrest Goodluck
+
+Mad Max: Fury Road
+Tom Hardy, Charlize Theron, Nicholas Hoult, Hugh Keays-Byrne, Rosie Huntington-Whiteley
+
+Django Unchained
+Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington, Samuel L. Jackson
+
+The Wolf of Wall Street
+Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey, Kyle Chandler
+
+The Social Network
+Jesse Eisenberg, Andrew Garfield, Justin Timberlake, Armie Hammer, Max Minghella
+
+The Big Short
+Christian Bale, Steve Carell, Ryan Gosling, Brad Pitt, Marisa Tomei
+
+La La Land
+Ryan Gosling, Emma Stone, John Legend, Rosemarie DeWitt, J.K. Simmons
+
+Whiplash
+Miles Teller, J.K. Simmons, Paul Reiser, Melissa Benoist, Austin Stowell
+
+12 Years a Slave
+Chiwetel Ejiofor, Michael Fassbender, Lupita Nyong’o, Sarah Paulson, Brad Pitt
+
+Birdman
+Michael Keaton, Zach Galifianakis, Edward Norton, Andrea Riseborough, Amy Ryan
+
+Gravity
+Sandra Bullock, George Clooney, Ed Harris, Orto Ignatiussen, Phaldut Sharma
+
+Her
+Joaquin Phoenix, Scarlett Johansson, Amy Adams, Rooney Mara, Chris Pratt
+
+A Star is Born
+Bradley Cooper, Lady Gaga, Sam Elliott, Andrew Dice Clay, Dave Chappelle
+
+Bohemian Rhapsody
+Rami Malek, Lucy Boynton, Gwilym Lee, Ben Hardy, Joseph Mazzello
+
+Logan
+Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook, Stephen Merchant
+
+Parasite
+Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-shik, Park So-dam
+
+1917
+George MacKay, Dean-Charles Chapman, Mark Strong, Andrew Scott, Richard Madden
+
+Once Upon a Time in Hollywood
+Leonardo DiCaprio, Brad Pitt, Margot Robbie, Emile Hirsch, Margaret Qualley
+
+Joker
+Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy, Brett Cullen
+
+The Irishman
+Robert De Niro, Al Pacino, Joe Pesci, Harvey Keitel, Ray Romano
+
+Marriage Story
+Adam Driver, Scarlett Johansson, Laura Dern, Alan Alda, Ray Liotta
+
+Ford v Ferrari
+Matt Damon, Christian Bale, Jon Bernthal, Caitriona Balfe, Josh Lucas
+
+Knives Out
+Daniel Craig, Chris Evans, Ana de Armas, Jamie Lee Curtis, Michael Shannon
+
+Jojo Rabbit
+Roman Griffin Davis, Thomasin McKenzie, Scarlett Johansson, Sam Rockwell, Rebel Wilson
+
+The Grand Budapest Hotel
+Ralph Fiennes, Tony Revolori, Adrien Brody, Willem Dafoe, Saoirse Ronan
+
+Moonlight
+Mahershala Ali, Naomie Harris, Trevante Rhodes, Andre Holland, Janelle Monáe
+
+Black Panther
+Chadwick Boseman, Michael B. Jordan, Lupita Nyong’o, Danai Gurira, Letitia Wright
+
+Get Out
+Daniel Kaluuya, Allison Williams, Bradley Whitford, Catherine Keener, Caleb Landry Jones
+
+A Quiet Place
+Emily Blunt, John Krasinski, Millicent Simmonds, Noah Jupe, Cade Woodward
+
+Us
+Lupita Nyong’o, Winston Duke, Elisabeth Moss, Tim Heidecker, Shahadi Wright Joseph
+
+Shutter Island
+Leonardo DiCaprio, Mark Ruffalo, Ben Kingsley, Michelle Williams, Emily Mortimer
+
+No Country for Old Men
+Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson, Kelly Macdonald
+
+The Departed
+Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg, Martin Sheen
+
+Casino Royale
+Daniel Craig, Eva Green, Mads Mikkelsen, Judi Dench, Jeffrey Wright
+
+Skyfall
+Daniel Craig, Javier Bardem, Naomie Harris, Ralph Fiennes, Judi Dench
+
+Spectre
+Daniel Craig, Christoph Waltz, Léa Seydoux, Ralph Fiennes, Ben Whishaw
+
+The Bourne Identity
+Matt Damon, Franka Potente, Chris Cooper, Clive Owen, Brian Cox
+
+The Bourne Ultimatum
+Matt Damon, Julia Stiles, David Strathairn, Joan Allen, Paddy Considine
+
+The Curious Case of Benjamin Button
+Brad Pitt, Cate Blanchett, Taraji P. Henson, Julia Ormond, Mahershala Ali
+
+Slumdog Millionaire
+Dev Patel, Freida Pinto, Anil Kapoor, Irrfan Khan, Madhur Mittal
+
+The Pursuit of Happyness
+Will Smith, Jaden Smith, Thandiwe Newton, Brian Howe, James Karen
+
+Cast Away
+Tom Hanks, Helen Hunt, Paul Sanchez, Lari White, Chris Noth
+
+Rain Man
+Dustin Hoffman, Tom Cruise, Valeria Golino, Gerald R. Molen, Jack Murdock
+
+The Truman Show
+Jim Carrey, Laura Linney, Ed Harris, Noah Emmerich, Natascha McElhone
+
+A Beautiful Mind
+Russell Crowe, Jennifer Connelly, Ed Harris, Paul Bettany, Christopher Plummer
+
+Good Will Hunting
+Robin Williams, Matt Damon, Ben Affleck, Minnie Driver, Stellan Skarsgård
+
+Rocky
+Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers, Burgess Meredith
+
+The Silence of the Lambs
+Jodie Foster, Anthony Hopkins, Scott Glenn, Ted Levine, Anthony Heald
+
+Reservoir Dogs
+Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn, Steve Buscemi
+
+The Green Mile
+Tom Hanks, Michael Clarke Duncan, David Morse, Bonnie Hunt, James Cromwell
+
+The Pianist
+Adrien Brody, Thomas Kretschmann, Frank Finlay, Maureen Lipman, Emilia Fox
+
+The Untouchables
+Kevin Costner, Sean Connery, Robert De Niro, Andy Garcia, Charles Martin Smith
+
+Heat
+Al Pacino, Robert De Niro, Val Kilmer, Jon Voight, Tom Sizemore
+
+Training Day
+Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger, Harris Yulin
+
+Catch Me If You Can
+Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen, Nathalie Baye
+
+Seven
+Brad Pitt, Morgan Freeman, Gwyneth Paltrow, Kevin Spacey, R. Lee Ermey
+
+The Prestige
+Hugh Jackman, Christian Bale, Michael Caine, Scarlett Johansson, Rebecca Hall
+
+The Imitation Game
+Benedict Cumberbatch, Keira Knightley, Matthew Goode, Charles Dance, Mark Strong
+
+The King's Speech
+Colin Firth, Geoffrey Rush, Helena Bonham Carter, Guy Pearce, Timothy Spall
+
+Pirates of the Caribbean: The Curse of the Black Pearl
+Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley, Jack Davenport
+
+Sherlock Holmes
+Robert Downey Jr., Jude Law, Rachel McAdams, Mark Strong, Eddie Marsan
+
+The Hunger Games
+Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Elizabeth Banks
+
+The Twilight Saga: Breaking Dawn – Part 2
+Kristen Stewart, Robert Pattinson, Taylor Lautner, Billy Burke, Peter Facinelli
+
+Frozen
+Kristen Bell, Idina Menzel, Josh Gad, Jonathan Groff, Santino Fontana
+
+The Fault in Our Stars
+Shailene Woodley, Ansel Elgort, Nat Wolff, Laura Dern, Willem Dafoe
+
+The Perks of Being a Wallflower
+Logan Lerman, Emma Watson, Ezra Miller, Mae Whitman, Paul Rudd
+
+Les Misérables
+Hugh Jackman, Russell Crowe, Anne Hathaway, Amanda Seyfried, Eddie Redmayne
+
+Silver Linings Playbook
+Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver, Chris Tucker
+
+The Great Gatsby
+Leonardo DiCaprio, Tobey Maguire, Carey Mulligan, Joel Edgerton, Elizabeth Debicki
+
+The Hobbit: An Unexpected Journey
+Martin Freeman, Ian McKellen, Richard Armitage, Andy Serkis, Cate Blanchett
+
+The Girl with the Dragon Tattoo
+Daniel Craig, Rooney Mara, Christopher Plummer, Stellan Skarsgård, Robin Wright
+
+The Maze Runner
+Dylan O'Brien, Kaya Scodelario, Thomas Brodie-Sangster, Will Poulter, Patricia Clarkson
+
+X-Men: Days of Future Past
+Hugh Jackman, James McAvoy, Michael Fassbender, Jennifer Lawrence, Patrick Stewart
+
+Man of Steel
+Henry Cavill, Amy Adams, Michael Shannon, Diane Lane, Russell Crowe
+
+Thor
+Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins, Stellan Skarsgård
+
+Avengers: Age of Ultron
+Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson
+
+Wonder Woman
+Gal Gadot, Chris Pine, Robin Wright, Connie Nielsen, David Thewlis
+
+Doctor Strange
+Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Benedict Wong, Tilda Swinton
+
+Spider-Man: Far From Home
+Tom Holland, Samuel L. Jackson, Jake Gyllenhaal, Marisa Tomei, Jon Favreau
+
+Star Wars: The Force Awakens
+Daisy Ridley, John Boyega, Harrison Ford, Carrie Fisher, Adam Driver
+
+Star Wars: The Last Jedi
+Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega
+
+Frozen II
+Kristen Bell, Idina Menzel, Josh Gad, Jonathan Groff, Evan Rachel Wood
+
+Moana
+Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison, Jemaine Clement
+
+Aladdin
+Will Smith, Mena Massoud, Naomi Scott, Marwan Kenzari, Navid Negahban
+
+Beauty and the Beast
+Emma Watson, Dan Stevens, Luke Evans, Kevin Kline, Josh Gad
+
+Zootopia
+Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate, J.K. Simmons
+
+Finding Dory
+Ellen DeGeneres, Albert Brooks, Ed O'Neill, Kaitlin Olson, Ty Burrell
+
+Rogue One: A Star Wars Story
+Felicity Jones, Diego Luna, Ben Mendelsohn, Mads Mikkelsen, Donnie Yen
+
+The Incredibles
+Craig T. Nelson, Holly Hunter, Samuel L. Jackson, Jason Lee, Sarah Vowell
+
+Inside Out
+Amy Poehler, Bill Hader, Lewis Black, Mindy Kaling, Phyllis Smith
+
+Coco
+Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach, Renée Victor
+
+Shrek
+Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow, Vincent Cassel
+
+How to Train Your Dragon
+Jay Baruchel, Gerard Butler, Craig Ferguson, America Ferrera, Jonah Hill
+
+Kung Fu Panda
+Jack Black, Dustin Hoffman, Angelina Jolie, Ian McShane, Seth Rogen
+
+Madagascar
+Ben Stiller, Chris Rock, David Schwimmer, Jada Pinkett Smith, Sacha Baron Cohen
+
+Despicable Me
+Steve Carell, Jason Segel, Russell Brand, Julie Andrews, Miranda Cosgrove
+
+Tangled
+Mandy Moore, Zachary Levi, Donna Murphy, Ron Perlman, M.C. Gainey
+
+Ice Age
+Ray Romano, John Leguizamo, Denis Leary, Goran Visnjic, Jack Black
+
+Up
+Edward Asner, Christopher Plummer, Jordan Nagai, Bob Peterson, Delroy Lindo
+
+Brave
+Kelly Macdonald, Billy Connolly, Emma Thompson, Julie Walters, Robbie Coltrane
+
+Toy Story 3
+Tom Hanks, Tim Allen, Joan Cusack, Don Rickles, Wallace Shawn
+
+WALL-E
+Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard, John Ratzenberger
+
+Ratatouille
+Patton Oswalt, Ian Holm, Lou Romano, Brian Dennehy, Peter O'Toole
+
+Finding Nemo
+Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe, Geoffrey Rush
+
+Monsters, Inc.
+John Goodman, Billy Crystal, Steve Buscemi, James Coburn, Jennifer Tilly
+
+The Lego Movie
+Chris Pratt, Will Ferrell, Elizabeth Banks, Will Arnett, Nick Offerman
+
+Minions
+Pierre Coffin, Sandra Bullock, Jon Hamm, Michael Keaton, Allison Janney
+
+The Secret Life of Pets
+Louis C.K., Eric Stonestreet, Kevin Hart, Jenny Slate, Ellie Kemper
+
+Sing
+Matthew McConaughey, Reese Witherspoon, Seth MacFarlane, Scarlett Johansson, John C. Reilly
+
+The Jungle Book
+Neel Sethi, Bill Murray, Ben Kingsley, Idris Elba, Lupita Nyong'o
+
+Alice in Wonderland
+Johnny Depp, Mia Wasikowska, Helena Bonham Carter, Anne Hathaway, Crispin Glover
+
+Maleficent
+Angelina Jolie, Elle Fanning, Sharlto Copley, Lesley Manville, Imelda Staunton
+
+The Lion King (2019)
+Donald Glover, Beyoncé, Seth Rogen, Chiwetel Ejiofor, John Oliver
+
+Dumbo
+Colin Farrell, Michael Keaton, Danny DeVito, Eva Green, Alan Arkin
+
+Cruella
+Emma Stone, Emma Thompson, Joel Fry, Paul Walter Hauser, Emily Beecham
+
+Mulan (2020)
+Liu Yifei, Donnie Yen, Gong Li, Jason Scott Lee, Jet Li
+
+The Croods
+Nicolas Cage, Emma Stone, Ryan Reynolds, Catherine Keener, Clark Duke
+
+The Boss Baby
+Alec Baldwin, Steve Buscemi, Jimmy Kimmel, Lisa Kudrow, Miles Bakshi
+
+Puss in Boots
+Antonio Banderas, Salma Hayek, Zach Galifianakis, Billy Bob Thornton, Amy Sedaris
+
+Megamind
+Will Ferrell, Brad Pitt, Tina Fey, Jonah Hill, David Cross
+
+Cloudy with a Chance of Meatballs
+Bill Hader, Anna Faris, James Caan, Andy Samberg, Bruce Campbell
+
+The Lorax
+Danny DeVito, Ed Helms, Zac Efron, Taylor Swift, Rob Riggle
+
+The Angry Birds Movie
+Jason Sudeikis, Josh Gad, Danny McBride, Maya Rudolph, Peter Dinklage
+
+Rio
+Jesse Eisenberg, Anne Hathaway, George Lopez, Jemaine Clement, Leslie Mann
+
+Hotel Transylvania
+Adam Sandler, Andy Samberg, Selena Gomez, Kevin James, Steve Buscemi
+
+Trolls
+Anna Kendrick, Justin Timberlake, Zooey Deschanel, Russell Brand, James Corden
+
+Cars
+Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy, Cheech Marin
+
+Ralph Breaks the Internet
+John C. Reilly, Sarah Silverman, Gal Gadot, Taraji P. Henson, Jack McBrayer
+
+The Secret Life of Walter Mitty
+Ben Stiller, Kristen Wiig, Sean Penn, Shirley MacLaine, Adam Scott
+
+The Martian
+Matt Damon, Jessica Chastain, Kristen Wiig, Jeff Daniels, Michael Peña
+
+Gravity
+Sandra Bullock, George Clooney, Ed Harris, Orto Ignatiussen, Phaldut Sharma
+
+Interstellar
+Matthew McConaughey, Anne Hathaway, Jessica Chastain, Bill Irwin, Ellen Burstyn
+
+The Revenant
+Leonardo DiCaprio, Tom Hardy, Domhnall Gleeson, Will Poulter, Forrest Goodluck
+
+Blade Runner 2049
+Ryan Gosling, Harrison Ford, Ana de Armas, Sylvia Hoeks, Jared Leto
+
+Dune
+Timothée Chalamet, Rebecca Ferguson, Oscar Isaac, Josh Brolin, Stellan Skarsgård
+
+Mad Max: Fury Road
+Tom Hardy, Charlize Theron, Nicholas Hoult, Hugh Keays-Byrne, Rosie Huntington-Whiteley
+
+Inception
+Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy, Ken Watanabe
+
+The Dark Knight Rises
+Christian Bale, Tom Hardy, Anne Hathaway, Michael Caine, Gary Oldman
+
+Jurassic World
+Chris Pratt, Bryce Dallas Howard, Vincent D'Onofrio, Ty Simpkins, Nick Robinson
+
+Aquaman
+Jason Momoa, Amber Heard, Willem Dafoe, Patrick Wilson, Nicole Kidman
+
+Venom
+Tom Hardy, Michelle Williams, Riz Ahmed, Scott Haze, Reid Scott
+
+Bird Box
+Sandra Bullock, Trevante Rhodes, John Malkovich, Sarah Paulson, Jacki Weaver
+
+Zombieland
+Jesse Eisenberg, Woody Harrelson, Emma Stone, Abigail Breslin, Bill Murray
+
+The Maze Runner
+Dylan O'Brien, Kaya Scodelario, Thomas Brodie-Sangster, Will Poulter, Patricia Clarkson
+
+Ready Player One
+Tye Sheridan, Olivia Cooke, Ben Mendelsohn, Lena Waithe, T.J. Miller
+
+The Hunger Games: Catching Fire
+Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Elizabeth Banks
+
+The Divergent Series: Insurgent
+Shailene Woodley, Theo James, Kate Winslet, Jai Courtney, Miles Teller
+
+The Twilight Saga: Eclipse
+Kristen Stewart, Robert Pattinson, Taylor Lautner, Bryce Dallas Howard, Anna Kendrick
+
+Shazam!
+Zachary Levi, Mark Strong, Asher Angel, Jack Dylan Grazer, Djimon Hounsou
+
+Wonder Woman 1984
+Gal Gadot, Chris Pine, Kristen Wiig, Pedro Pascal, Robin Wright
+
+Captain Marvel
+Brie Larson, Samuel L. Jackson, Ben Mendelsohn, Jude Law, Annette Bening
+
+Spider-Man: Into the Spider-Verse
+Shameik Moore, Jake Johnson, Hailee Steinfeld, Mahershala Ali, Brian Tyree Henry
+
+Toy Story 4
+Tom Hanks, Tim Allen, Annie Potts, Tony Hale, Keegan-Michael Key
+
+Frozen II
+Kristen Bell, Idina Menzel, Josh Gad, Jonathan Groff, Evan Rachel Wood
+
+Joker
+Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy, Brett Cullen
+
+Avengers: Endgame
+Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson
+
+Black Panther
+Chadwick Boseman, Michael B. Jordan, Lupita Nyong’o, Danai Gurira, Letitia Wright
+
+The Lion King (2019)
+Donald Glover, Beyoncé, Seth Rogen, Chiwetel Ejiofor, John Oliver
+
+Aladdin (2019)
+Will Smith, Mena Massoud, Naomi Scott, Marwan Kenzari, Navid Negahban
+
+Detective Pikachu
+Ryan Reynolds, Justice Smith, Kathryn Newton, Bill Nighy, Ken Watanabe
+
+Ralph Breaks the Internet
+John C. Reilly, Sarah Silverman, Gal Gadot, Taraji P. Henson, Jack McBrayer
+
+The Lego Movie 2: The Second Part
+Chris Pratt, Elizabeth Banks, Will Arnett, Tiffany Haddish, Stephanie Beatriz
+
+Onward
+Tom Holland, Chris Pratt, Julia Louis-Dreyfus, Octavia Spencer, Mel Rodriguez
+
+Trolls World Tour
+Anna Kendrick, Justin Timberlake, Rachel Bloom, James Corden, Ron Funches
+
+Dolittle
+Robert Downey Jr., Antonio Banderas, Michael Sheen, Jim Broadbent, Jessie Buckley
+
+The Secret Life of Pets 2
+Patton Oswalt, Kevin Hart, Harrison Ford, Tiffany Haddish, Eric Stonestreet
+
+Sonic the Hedgehog
+Ben Schwartz, James Marsden, Jim Carrey, Tika Sumpter, Lee Majdoub
+
+Jumanji: Welcome to the Jungle
+Dwayne Johnson, Kevin Hart, Jack Black, Karen Gillan, Nick Jonas
+
+Jumanji: The Next Level
+Dwayne Johnson, Kevin Hart, Jack Black, Karen Gillan, Awkwafina
+
+The Croods: A New Age
+Nicolas Cage, Emma Stone, Ryan Reynolds, Catherine Keener, Cloris Leachman
+
+Spies in Disguise
+Will Smith, Tom Holland, Rashida Jones, Ben Mendelsohn, Karen Gillan
+
+Angry Birds 2
+Jason Sudeikis, Josh Gad, Danny McBride, Bill Hader, Peter Dinklage
+
+The Addams Family (2019)
+Oscar Isaac, Charlize Theron, Chloë Grace Moretz, Finn Wolfhard, Nick Kroll
+
+The SpongeBob Movie: Sponge on the Run
+Tom Kenny, Bill Fagerbakke, Rodger Bumpass, Clancy Brown, Carolyn Lawrence
+
+The Grinch
+Benedict Cumberbatch, Cameron Seely, Rashida Jones, Kenan Thompson, Angela Lansbury
+
+Hotel Transylvania 3: Summer Vacation
+Adam Sandler, Andy Samberg, Selena Gomez, Kevin James, David Spade
+
+Incredibles 2
+Craig T. Nelson, Holly Hunter, Sarah Vowell, Huck Milner, Samuel L. Jackson
+
+The Boss Baby
+Alec Baldwin, Steve Buscemi, Jimmy Kimmel, Lisa Kudrow, Miles Bakshi
+
+The Angry Birds Movie
+Jason Sudeikis, Josh Gad, Danny McBride, Bill Hader, Peter Dinklage
+
+How to Train Your Dragon: The Hidden World
+Jay Baruchel, America Ferrera, Cate Blanchett, Gerard Butler, Kit Harington
+
+Kung Fu Panda 3
+Jack Black, Bryan Cranston, Dustin Hoffman, Angelina Jolie, J.K. Simmons
+
+Sing 2
+Matthew McConaughey, Reese Witherspoon, Scarlett Johansson, Taron Egerton, Bobby Cannavale
+
+The Lego Batman Movie
+Will Arnett, Michael Cera, Rosario Dawson, Ralph Fiennes, Zach Galifianakis
+
+Shazam!
+Zachary Levi, Mark Strong, Asher Angel, Jack Dylan Grazer, Djimon Hounsou
+
+Wonder Woman
+Gal Gadot, Chris Pine, Robin Wright, Connie Nielsen, Danny Huston
+
+Captain Marvel
+Brie Larson, Samuel L. Jackson, Ben Mendelsohn, Jude Law, Annette Bening
+
+Avengers: Infinity War
+Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson
+
+Spider-Man: Homecoming
+Tom Holland, Michael Keaton, Robert Downey Jr., Marisa Tomei, Zendaya
+
+Thor: Ragnarok
+Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Idris Elba, Jeff Goldblum
+
+Guardians of the Galaxy Vol. 2
+Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper
+
+Justice League
+Ben Affleck, Henry Cavill, Gal Gadot, Jason Momoa, Ezra Miller
+
+Suicide Squad
+Will Smith, Margot Robbie, Jared Leto, Joel Kinnaman, Viola Davis
+
+Batman v Superman: Dawn of Justice
+Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg, Diane Lane
+
+Man of Steel
+Henry Cavill, Amy Adams, Michael Shannon, Kevin Costner, Diane Lane
+
+Black Widow
+Scarlett Johansson, Florence Pugh, David Harbour, Rachel Weisz, O-T Fagbenle
+
+The Eternals
+Gemma Chan, Richard Madden, Kumail Nanjiani, Angelina Jolie, Salma Hayek
+
+Shang-Chi and the Legend of the Ten Rings
+Simu Liu, Awkwafina, Tony Leung, Michelle Yeoh, Ben Kingsley
+
+The Suicide Squad
+Margot Robbie, Idris Elba, John Cena, Joel Kinnaman, Viola Davis
+
